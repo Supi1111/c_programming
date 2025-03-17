@@ -50,12 +50,3 @@ Decimal to Binary: 1010
 ## Requirements
 - **GCC Compiler** (For Linux/macOS, install using `sudo apt install gcc` or `brew install gcc`)
 - **Windows users** can use **MinGW** or an online C compiler.
-
-## Contributions
-Feel free to **fork** this repository, improve the code, and submit **pull requests**.
-
-## License
-This project is licensed under the **MIT License**.
-
----
-**Happy Coding! 😊**
